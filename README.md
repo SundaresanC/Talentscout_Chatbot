@@ -28,8 +28,8 @@ TalentScout is an intelligent, step-based AI assistant built with **Streamlit** 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/talent-scout-ai.git
-cd talent-scout-ai
+git clone https://github.com/SundaresanC/Talentscout_Chatbot
+cd Talentscout_Chatbot
 ```
 
 2. **Create a Virtual Environment**
